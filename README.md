@@ -1,2 +1,2 @@
 # CODE2040
-My struggles and triumphs in applying to this program.
+This repository contains my solutions (in Python) to the technical assessment of CODE2040.
